@@ -1,0 +1,25 @@
+@import url("/colors.css");
+@import url("/elevation.css");
+@import url("/typography.css");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.material-icons{
+    font-size: inherit;
+    line-height: inherit;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,html{
+    height: 100%;
+    background-color:var(--body-background);
+    color: var(--on-background);
+}
+
+html{
+    font-size: 16px;
+}
