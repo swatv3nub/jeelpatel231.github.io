@@ -98,10 +98,10 @@ a{
 
 .pane .content{
     white-space: pre-line;
-    word-break: break-all;
 }
 .content a{
     text-decoration: underline;
+    word-break: break-all;
 }
 .entry {
     border: 2px solid var(--md-sys-color-on-secondary-container);
