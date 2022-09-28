@@ -98,6 +98,7 @@ a{
 
 .pane .content{
     white-space: pre-line;
+    word-break: break-all;
 }
 .content a{
     text-decoration: underline;
