@@ -94,6 +94,7 @@ a{
     width: 50%;
     min-width: min(400px,100%);
     padding-right: 24px;
+    padding-bottom: 24px;
 }
 
 .pane .content{
