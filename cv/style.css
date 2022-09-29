@@ -63,6 +63,16 @@ a{
     margin-top: 4px;
 }
 
+@media only screen and (max-width:425px){
+    .name{
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .nav-btn > .body-small{
+        display: none;
+    }
+}
+
 /* PHOTO MAIN */
 
 .photo-main{
